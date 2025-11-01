@@ -1,8 +1,9 @@
-## Hi there 👋
-Learning my way to App Dev 🚀
+## Hi there! I'm Gleen Ryan👋
+Learning my way to mastering App Development 🚀 | Addicted to self-improvement books 📚
 
-🔭 I’m currently working on Flicker App
-📫 How to reach me: [![Email](https://img.shields.io/badge/Email-tjiagleenryan%40gmail.com-blue?style=for-the-badge)](mailto:tjiagleenryan@gmail.com)
+🔭 I’m currently working on Flicker App  
+📫 How to reach me: [Email](mailto:tjiagleenryan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gleen-ryan/)
+
 
 <!--
 **Gleenryan/Gleenryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
