@@ -1,7 +1,7 @@
 ## Hi there! I'm Gleen Ryan👋
 Learning my way to mastering App Development 🚀 | Addicted to self-improvement books 📚
 
-🔭 I’m currently working on Flicker App  
+🔭 I’m currently learning Swift
 📫 How to reach me: [Email](mailto:tjiagleenryan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gleen-ryan/)
 
 
